@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/cierek/cierek.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Feel free to download and use software published on my GitHub. Please remember to follow the software license when it applies as well as to leave the reference when you are quoting my work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If my software was useful please leave a star, send donation or get my stuff in the App Store(when it applies). If you found any issue feel free to use "Issues" tab.
 
-### Markdown
+### Odoo modules
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+New repository wit modules for Odoo is ready now. You can access it here:
 
-```markdown
-Syntax highlighted code block
+https://github.com/cierek/Odoo-Modules
 
-# Header 1
-## Header 2
-### Header 3
+Old repositories are going to be deleted or archived to save resources.
 
-- Bulleted
-- List
+### Node.js
 
-1. Numbered
-2. List
+Rep was added to keep the scripts I am using on Amazon EC2.
 
-**Bold** and _Italic_ and `Code` text
+### postgresql
 
-[Link](url) and ![Image](src)
-```
+Rep contains the postgresql scripts that you can use with Odoo(for now)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Coursera-Code
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cierek/cierek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Rep contains the code from Python4Everybody Course (Basic Python). Feel free to use if you are really struggling.
